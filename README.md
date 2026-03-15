@@ -46,7 +46,7 @@ In Ki, you navigate lines by default. You can see that in status bar at the bott
 
 You are in normal mode `NORM`. To navigate between characters, press `q`.
 
-In status bar at the bottom right you will see `CHAR`, which means you are navigating between characts.
+In status bar at the bottom right you will see `CHAR`, which means you are navigating between characters.
 
 Now press `l` to go to next characters or `j` to go to previous character.
 
